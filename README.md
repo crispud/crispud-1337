@@ -1,6 +1,6 @@
 ![](./src/header_.png)
 <p align="center">
-  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Crispud;+Welcome+to+My+GitHub+Profile!;BlockChain%20Developer;Full%20Stack%20Developer;Penetration+tester;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs;With%20enough%20time;Anything%20that%20can%20be%20Written%20in%20Javascript;Will%20be%20written%20in%20Typescript&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22"></a>
+  <a href="https://github.com/ninja-1337"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋,+I+am+Crispud;+Welcome+to+My+GitHub+Profile!;Penetration+tester;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20stuffs;With%20enough%20time;Anything%20that%20can%20be%20Written%20in%20Javascript;Will%20be%20written%20in%20Typescript&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=34%22"></a>
 </p>
 
 
@@ -15,8 +15,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></a>
          
   
-
-
 
 <h2 align="left">Technologies</h2>
 <p align="left">
@@ -46,11 +44,9 @@
   <a href="https://www.microsoft.com/en-us/windows">
   <img src="https://camo.githubusercontent.com/d55ef84abe041d657aa470f23ca24b13f68dbfe094eb6a877e9cd4330956a7a1/68747470733a2f2f757877696e672e636f6d2f77702d636f6e74656e742f7468656d65732f757877696e672f646f776e6c6f61642f31302d6272616e64732d616e642d736f6369616c2d6d656469612f77696e646f77732d31302e737667" alt="windows" width="40" height="40"/></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" alt="windows terminal" width="40" height="40"/>
   <img src="https://preview.redd.it/cvt4kgax95071.png?auto=webp&s=18d9c38658f479c56a6a1bfaf33779ec54260d28" alt="pshell" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="vscode" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" alt="kali" width="40" height="40"/>
-
 
 
 <h1 align="center">Github Status </h1>
@@ -66,7 +62,7 @@
 
  . | .
 --- | --- 
-![ninja-1337 github stats](https://github-readme-stats.vercel.app/api?username=crispud&show_icons=true&theme=github_dark&include_all_commits=true) | ![ninja-1337 github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crispud&theme=github_dark&layout=compact)
+![crispud github stats](https://github-readme-stats.vercel.app/api?username=crispud&show_icons=true&theme=github_dark&include_all_commits=true) | ![crispud github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=crispud&theme=github_dark&layout=compact)
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=crispud" ></img>
 </p>
@@ -75,7 +71,7 @@
 
 
 <p align="center">
-<img src="https://gpvc.arturio.dev/ninja-1337" alt="Profile views"/>
+<img src="https://gpvc.arturio.dev/crispud" alt="Profile views"/>
 </p>
 
 
